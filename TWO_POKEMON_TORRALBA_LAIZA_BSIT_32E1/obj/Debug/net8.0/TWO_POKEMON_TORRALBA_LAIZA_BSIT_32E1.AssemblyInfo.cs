@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TWO_POKEMON_TORRALBA_LAIZA_BSIT_32E1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04ffe216a794ed434299d28a25e374fee05ba287")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46957e0203549cc8f267d76ece8b3f17da409156")]
 [assembly: System.Reflection.AssemblyProductAttribute("TWO_POKEMON_TORRALBA_LAIZA_BSIT_32E1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TWO_POKEMON_TORRALBA_LAIZA_BSIT_32E1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
