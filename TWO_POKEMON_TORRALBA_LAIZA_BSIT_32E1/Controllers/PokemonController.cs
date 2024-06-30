@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json.Linq;
-using TWO_POKEMON_TORRALBA_LAIZA_BSIT_32E1;
+using TWO_POKEMON_TORRALBA_LAIZA_BSIT_32E1.Models;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;

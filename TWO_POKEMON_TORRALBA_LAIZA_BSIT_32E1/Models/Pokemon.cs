@@ -1,4 +1,6 @@
-﻿namespace TWO_POKEMON_TORRALBA_LAIZA_BSIT_32E1.Models
+﻿using System.Collections.Generic;
+
+namespace TWO_POKEMON_TORRALBA_LAIZA_BSIT_32E1.Models
 {
     public class Pokemon
     {

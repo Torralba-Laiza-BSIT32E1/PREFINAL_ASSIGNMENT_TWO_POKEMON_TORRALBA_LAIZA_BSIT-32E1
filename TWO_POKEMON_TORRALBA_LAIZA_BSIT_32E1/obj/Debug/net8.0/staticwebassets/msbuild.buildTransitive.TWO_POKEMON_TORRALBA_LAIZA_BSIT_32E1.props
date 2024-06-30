@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TWO_POKEMON_TORRALBA_LAIZA_BSIT_32E1.props" />
+</Project>
